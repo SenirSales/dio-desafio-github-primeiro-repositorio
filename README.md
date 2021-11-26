@@ -2,11 +2,11 @@
 Desafio de Projeto:
 
 Objetivo:
-   Disponibilizar as anotacoes do Decola Tech 2a.
-   
-Conteudo das pastas:
-	[Certificados]: Certificados das aulas concluidas:
-	[Cursos]: Anotações das aulas:
+   Disponibilizar as anotações do Decola Tech 2a.
+
+Conteúdo das pastas:
+   Certificados: Certificados das aulas concluídas: 
+   Cursos: Anotações das aulas:
 
 ## Links Úteis
 [Sintexe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
